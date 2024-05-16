@@ -1,0 +1,6 @@
+@AgaOrganizationProject_HostAddress = http://localhost:5202
+
+GET {{AgaOrganizationProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
