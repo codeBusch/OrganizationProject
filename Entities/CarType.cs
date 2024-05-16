@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entities
 {
-    public class CarType
+    public class CarType:BaseModel
     {
     }
 }
